@@ -4,11 +4,13 @@
 * Disclaimer: This is not a code from tutorial!
 
 * Checklist
-[ ] Project setup.
-[ ] Add Global CSS style.
+[x] Project setup.
+[x] Add Global CSS style.
 [ ] Navbar component.
-    [ ] Add font awesomeness CDN for icon.
+    [x] Add font awesomeness CDN for icon.
+    [x] Create the Navbar UI.
+    [x] Put GitHub icon i Navbar.
 [ ] UserItem component.
     [ ] Create dummy user object state in App.js for testing use.
-    [ ] Create user display.   
+    [ ] Create user card UI.   
 [ ] User component.  
