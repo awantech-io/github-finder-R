@@ -18,5 +18,7 @@
 * [x] User component.
     * [x] Create dummy user object state in App.js for testing use.
     * [x] Create User container for display use item UI.
-     
+* [] Fetch data from Github Api in App.js
+    * [x] Install Axios
+    * [ ] Fetch data      
     
