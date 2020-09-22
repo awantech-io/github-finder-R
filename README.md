@@ -18,7 +18,11 @@
 * [x] User component.
     * [x] Create dummy user object state in App.js for testing use.
     * [x] Create User container for display use item UI.
-* [] Fetch data from Github Api in App.js
+* [x] Fetch data from Github Api in App.js.
     * [x] Install Axios
-    * [ ] Fetch data      
-    
+    * [x] Fetch data fom github user api using async await.
+    * [x] Send the data as state, then send as props to User component.      
+* [x] Spinner component.
+    * [x] Put spinner gif image inside layout folder.
+    * [x] Create Spinner component.
+    * [x] apply Spinner at User component.
