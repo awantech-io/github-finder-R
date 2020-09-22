@@ -16,5 +16,7 @@
     * [x] Create dummy user object state in App.js for testing use.
     * [x] Create user card UI.   
 * [x] User component.
-    * [x] Create User container for display use item UI. 
+    * [x] Create dummy user object state in App.js for testing use.
+    * [x] Create User container for display use item UI.
+     
     
