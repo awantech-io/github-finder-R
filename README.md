@@ -32,4 +32,8 @@
     * [x] Set Api key to fetch async.
 * [ ] Search user.
     * [x] Create Search user component.
+    * [x] Pass up search props to App.js.
+    * [x] Search the user at GitApi.
+    * [x] Add Search User PropTypes.
+
     
