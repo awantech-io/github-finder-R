@@ -27,5 +27,9 @@
     * [x] Create Spinner component.
     * [x] apply Spinner at User component.
 * [x] Setup Git Hub Api
-    *[x] Register GitHub Api
-    *[x] Create .env.local files to store GitHUb api key
+    * [x] Register GitHub Api
+    * [x] Create .env.local files to store GitHUb api key
+    * [x] Set Api key to fetch async.
+* [ ] Search user.
+    * [x] Create Search user component.
+    
