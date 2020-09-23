@@ -26,3 +26,6 @@
     * [x] Put spinner gif image inside layout folder.
     * [x] Create Spinner component.
     * [x] apply Spinner at User component.
+* [x] Setup Git Hub Api
+    *[x] Register GitHub Api
+    *[x] Create .env.local files to store GitHUb api key
