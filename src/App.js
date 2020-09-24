@@ -22,6 +22,8 @@ class App extends Component {
   //   this.setState({ users: res.data, loading:false });    
   // }
   
+  
+
   // Search Github users
   searchUsers = async text => {
     this.setState({ loading: true });
@@ -34,12 +36,18 @@ class App extends Component {
     this.setState({ users: res.data.items, loading:false });
   };
 
+  // clear user from state when submit clear button
+  clearUsers = () => this.setState({ users:[], loading:false});
+
   render(){
     return (
       <div>
         <Navbar />
         <div className='container'>
-        <Search searchUsers={this.searchUsers} />
+        <Search searchUsers={this.searchUsers} 
+        clearUsers={this.clearUsers} 
+        showClear={this.state.users.length > 0 ? true : false}
+        />
         <User loading={this.state.loading} users={this.state.users} />
         </div>
         

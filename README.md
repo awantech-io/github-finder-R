@@ -35,5 +35,6 @@
     * [x] Pass up search props to App.js.
     * [x] Search the user at GitApi.
     * [x] Add Search User PropTypes.
+    * [] Clear button state.
 
     
