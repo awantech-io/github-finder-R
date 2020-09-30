@@ -39,4 +39,8 @@
 * [x] Alert state & component.
     * [x] Alert message box.
     * [x] Set 5 second timer to messages box.
+* [x] Router Setup
+* [x] Create About component.
+* [x] Add Home & About link at NavBar.
+* [x] Create user component.
     
