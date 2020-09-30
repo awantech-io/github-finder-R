@@ -30,11 +30,13 @@
     * [x] Register GitHub Api
     * [x] Create .env.local files to store GitHUb api key
     * [x] Set Api key to fetch async.
-* [ ] Search user.
+* [x] Search user.
     * [x] Create Search user component.
     * [x] Pass up search props to App.js.
     * [x] Search the user at GitApi.
     * [x] Add Search User PropTypes.
     * [x] Clear button state.
-
+* [x] Alert state & component.
+    * [x] Alert message box.
+    * [x] Set 5 second timer to messages box.
     
