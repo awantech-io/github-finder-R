@@ -43,4 +43,10 @@
 * [x] Create About component.
 * [x] Add Home & About link at NavBar.
 * [x] Create user component.
+
+*[x] Refactor
+    * [] use functional componet    
+    * [] Use hook
+        * [] useState
+        * [] useEffect
     
