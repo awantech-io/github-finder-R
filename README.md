@@ -45,8 +45,9 @@
 * [x] Create user component.
 
 *[x] Refactor
-    * [] use functional componet    
-    * [] Use hook
-        * [] useState
-        * [] useEffect
+    * [x] use functional componet    
+    * [x] Use hook
+        * [x] useState
+        * [x] useEffect
+    * [x] use context API    
     
