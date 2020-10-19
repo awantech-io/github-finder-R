@@ -43,11 +43,13 @@
 * [x] Create About component.
 * [x] Add Home & About link at NavBar.
 * [x] Create user component.
-
-*[x] Refactor
-    * [x] use functional componet    
-    * [x] Use hook
-        * [x] useState
-        * [x] useEffect
-    * [x] use context API    
+* [x] Refactor
+* [x] use functional componet    
+* [x] Use hook
+   * [x] useState
+   * [x] useEffect
+ * [x] use context API
+ * [x] Deployment
+   * [x] Set Env var
+   * [x] Deploy to Netlify 🚀
     
