@@ -1,5 +1,5 @@
-## Github Finder R
-### Github account finder app.
+## Github Search
+### Github account search app.
 #### Build with React and using GitHub Api.
 
 * Checklist
